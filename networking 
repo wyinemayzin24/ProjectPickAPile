@@ -1,0 +1,13 @@
+What are the types of system model? 
+o Physical models 
+o Architectural models 
+o Fundamental models
+What is Physical model? 
+Physical models are the most explicit way in which to describe a system; they capture the hardware composition of a system in terms of the computers and their interconnecting networks.
+What is Architectural model? 
+Architectural models describe a system in terms of the computational and communication tasks performed by its computational elements; the computational elements being individual computers or aggregates of them supported by appropriate network interconnections.
+What is Fundamental model? 
+Fundamental models take an abstract perspective in order to examine individual aspects of a distributed system.
+	interaction models consider the structure and sequencing of the communication between the elements of the system
+	failure models consider the ways in which a system may fail to operate correctly and
+	security models consider how the system is protected against attempts to interfere with its correct operation or to steal its data
